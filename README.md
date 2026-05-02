@@ -1,8 +1,7 @@
-#A Framework to Evaluate Physiologic Feasibility of Repurpose Drugs across Populations for the Next Pandemic
+# NUS-TTSH-NHG SARS-CoV-2-Paxlovid Study 
 
 This repository contains code and supporting materials for the study:
-
-## NUS-TTSH-NHG SARS-CoV-2-Paxlovid Study
+## A Framework to Evaluate Physiologic Feasibility of Repurpose Drugs across Populations for the Next Pandemic
 
 ## Overview
 
