@@ -32,7 +32,7 @@ To reproduce the analysis:
 
 ## Contact
 
-For questions or access requests, please contact the corresponding author.
+For questions or access requests, please contact the corresponding author: Prof. Eric Chan Chun Yong, National University of Singapore <eric.chan@nus.edu.sg>
 
 ## License
 
