@@ -20,7 +20,7 @@ to evaluate treatment timing, dosing, duration, and adherence for nirmatrelvirâ€
 
 ## Data Availability
 
-Due to data governance restrictions, raw clinical datasets are not publicly available.  
+Due to data governance restrictions, datasets are not publicly available.  
 Where possible, processed outputs or example datasets are provided.
 
 ## Reproducibility
