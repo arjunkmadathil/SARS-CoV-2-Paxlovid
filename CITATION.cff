@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "A Framework to Evaluate Physiologic Feasibility of Repurpose Drugs across Populations for the Next Pandemic"
+message: "If you use this repository, please cite the associated manuscript."
+authors:
+  - family-names: "K M"
+    given-names: "Arjun"
+  - family-names: "Chan"
+    given-names: "Eric Chun Yong"
+year: 2026
+version: 1.0.0
+doi: "TBD"
+url: "https://github.com/your-username/repo-name"
